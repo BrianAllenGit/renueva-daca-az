@@ -1,0 +1,47 @@
+# Needs a native Spanish read
+
+Every Spanish string we wrote (navigation labels, calculator labels and results, privacy text). Quoted USCIS Spanish is USCIS's own and is not on this list. Also in `app.js`: the result messages and the calendar reminder titles (see `window.js` TEXT and `app.js` MSG). Machine check only; a human reader has not seen any of it.
+
+- Meses del selector: enero, febrero, marzo, abril, mayo, junio, julio, agosto, septiembre, octubre, noviembre, diciembre
+- Escribe la fecha en que vence tu DACA y mira el plazo que USCIS recomienda para presentar la renovación.
+- Estado de DACA según USCIS
+- Esto es lo que USCIS dice hoy en su página de DACA. Se copia sin cambios.
+- La fecha de "Última Revisión/Actualización" de la página de USCIS es 24 de enero de 2025. Los tribunales cambian las reglas con frecuencia: antes de presentar nada, lee la página de USCIS de hoy.
+- Calcula tu plazo
+- La fecha de vencimiento está en tu Formulario I-797 de aprobación de DACA, que es la fecha que usa USCIS. Escribe el día, elige el mes y escribe el año.
+- Día
+- Mes
+- Año
+- Calcular mi plazo
+- Revisa la fecha: escribe un día, un mes y un año que existan (por ejemplo, 30 de junio de 2027).
+- Cuándo presentar la renovación, según USCIS
+- De aquí sale el plazo de arriba. Se copia sin cambios.
+- Páginas oficiales
+- Estas páginas son de USCIS. Ahí están las reglas, el formulario y los costos actuales.
+- Ayuda legal gratuita o de bajo costo
+- Antes de presentar tu renovación, puedes hablar con un abogado o un representante acreditado. Estas listas oficiales y de Arizona te ayudan a encontrarlos.
+- Sobre esta página
+- Cita de USCIS, palabra por palabra y sin cambios
+- Fuente: USCIS (Servicio de Ciudadanía e Inmigración de EE. UU.), <a href="https://www.uscis.gov/es/DACA" rel="noopener noreferrer">https://www.uscis.gov/es/DACA</a>. Aviso copiado de la página tal como se leyó el 27 de noviembre de 2026. USCIS muestra en esa página "Última Revisión/Actualización: 01/24/2025".
+- Página de DACA de USCIS
+- Formulario I-821D en USCIS
+- Tarifas de presentación de USCIS
+- Información de USCIS sobre litigios de DACA
+- Lista de servicios legales gratuitos del Departamento de Justicia (EOIR, en inglés)
+- Listas de EOIR de organizaciones reconocidas y representantes acreditados (en inglés)
+- AZLawHelp: ayuda legal en Arizona
+- Aviso de USCIS sobre la exactitud de su sitio (en inglés), palabra por palabra
+- Fuente: USCIS, <a href="https://www.uscis.gov/website-policies" rel="noopener noreferrer">https://www.uscis.gov/website-policies</a>, texto original en inglés, leído el 27 de noviembre de 2026.
+- <strong>No es asesoría legal.</strong> Esta página solo hace una cuenta de calendario con la regla que USCIS publica y enlaza a páginas oficiales. No dice si puedes renovar ni si tu caso es sencillo.
+- <strong>No guarda ni envía nada.</strong> La fecha que escribes se queda en tu aparato: la cuenta se hace en tu navegador, sin servidor y sin conexiones a internet. No hay cookies, ni almacenamiento local, ni cuentas, ni anuncios, ni analíticas, ni letras o scripts de otros sitios.
+- <strong>El archivo de calendario se crea en tu aparato.</strong> Al tocar el botón, tu navegador baja un archivo .ics que se arma ahí mismo. Después de eso, tu calendario lo maneja como cualquier otro archivo tuyo.
+- <strong>Los plazos son un cálculo en días.</strong> Se cuentan días de calendario hacia atrás desde la fecha de vencimiento: 150 días para abrir y 120 días para cerrar, que es lo que dice la cita de USCIS. Si tu aparato muestra otra fecha, confía en la página de USCIS.
+- Este sitio está alojado en GitHub Pages, que puede guardar registros estándar de visitas que nosotros no podemos ver ni controlar.
+- Esta calculadora necesita JavaScript. Sin JavaScript, la regla de USCIS está copiada más abajo.
+- Renueva tu DACA: calcula cuándo presentar tu renovación
+- Escribe la fecha en que vence tu DACA y mira el plazo que recomienda USCIS para renovar. Recordatorio para tu calendario. Sin rastreo. Español e inglés.
+- Renueva tu DACA: calcula el plazo para presentar tu renovación. Renew your DACA: find your filing window.
+- Ir al contenido
+- Calculadora del plazo
+- Este sitio no tiene analíticas y no guarda nada. Lo que escribes no sale de tu aparato.
+- No es asesoría legal

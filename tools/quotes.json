@@ -1,0 +1,59 @@
+{
+ "status_en": {
+  "lang": "en",
+  "title": "ALERT: Important Update on Deferred Action for Childhood Arrivals",
+  "url": "https://www.uscis.gov/DACA",
+  "page_date": "01/24/2025",
+  "page_date_label": {
+   "en": "January 24, 2025",
+   "es": "24 de enero de 2025"
+  },
+  "text": "On Jan. 17, 2025, the U.S. Court of Appeals for the Fifth Circuit issued a decision regarding the DACA Final Rule. Pursuant to the court’s order, USCIS will continue to accept and process DACA renewal requests and accompanying applications for employment authorization under the DACA regulations at 8 CFR 236.22 and 236.23. USCIS will continue to accept initial requests but will not process initial DACA requests at this time. Current grants of DACA and related Employment Authorization Documents remain valid until they expire, unless individually terminated.",
+  "retrieved": "2026-11-27"
+ },
+ "status_es": {
+  "lang": "es",
+  "title": "AVISO: Actualización Importante sobre la Acción Diferida para los Llegados en la Infancia",
+  "url": "https://www.uscis.gov/es/DACA",
+  "page_date": "01/24/2025",
+  "page_date_label": {
+   "en": "January 24, 2025",
+   "es": "24 de enero de 2025"
+  },
+  "text": "El 17 de enero de 2025, el Tribunal de Apelaciones de Estados Unidos para el Quinto Circuito emitió una decisión relacionada con la Regla Final de DCA. De acuerdo con la orden del tribunal, USCIS continuará aceptando y procesando las peticiones de renovación de DACA y las solicitantes de autorización de empleo que acompañan a estas peticiones bajo las regulaciones de DACA en 8 CFR 236.22 y 236.23. USCIS continuará aceptando peticiones iniciales, pero no procesará las peticiones iniciales de DACA en estos momentos. Las concesiones de DACA actuales y de Documentos de Autorización de Empleo relacionados con DACA siguen siendo válidos hasta que caduquen, a menos que sean cancelados.",
+  "retrieved": "2026-11-27"
+ },
+ "timing_en": {
+  "lang": "en",
+  "title": "ALERT: Important Reminders Regarding the DACA Renewal Process",
+  "url": "https://www.uscis.gov/DACA",
+  "page_date": "01/24/2025",
+  "page_date_label": {
+   "en": "January 24, 2025",
+   "es": "24 de enero de 2025"
+  },
+  "text": "As USCIS has long recommended, we strongly encourage DACA recipients to submit your DACA renewal request to us between 120 and 150 days (4 to 5 months) before the expiration date located on your current Form I-797 DACA approval notice. Filing during this window reduces the risk that your current period of DACA and employment authorization will expire before you receive a decision on your renewal request. Please note that filing earlier than 150 days before your current DACA expiration date will not result in a faster decision.",
+  "retrieved": "2026-11-27"
+ },
+ "timing_es": {
+  "lang": "es",
+  "title": "AVISO: Recordatorio Importante Acerca del Proceso de Renovación de DACA",
+  "url": "https://www.uscis.gov/es/DACA",
+  "page_date": "01/24/2025",
+  "page_date_label": {
+   "en": "January 24, 2025",
+   "es": "24 de enero de 2025"
+  },
+  "text": "Según USCIS ha recomendado durante mucho tiempo, exhortamos a los receptores de DACA a presentarnos su solicitud de renovación de DACA entre 120 y 150 días (de cuatro a cinco meses) antes de la fecha de vencimiento indicada en su Formulario I-797 de notificación de aprobación de DACA. Presentar su petición durante este plazo reduce el riesgo de que su actual periodo de DACA y autorización de empleo caduquen antes de que reciba una decisión sobre su petición de renovación. Por favor, tenga en cuenta que, presentar la solicitud antes de 150 días de la fecha de vencimiento de su DACA actual no resultará en una decisión más rápida.",
+  "retrieved": "2026-11-27"
+ },
+ "accuracy_en": {
+  "lang": "en",
+  "title": "Accuracy",
+  "url": "https://www.uscis.gov/website-policies",
+  "page_date": null,
+  "page_date_label": {},
+  "text": "While we try to keep our online information timely and accurate, there may be a delay in updating our website after there have been changes to the law.",
+  "retrieved": "2026-11-27"
+ }
+}

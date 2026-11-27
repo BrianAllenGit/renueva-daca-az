@@ -1,0 +1,95 @@
+PASS es 375px state before: result shown, calendar button present
+PASS axe es 375px before state: 0 violations 
+PASS no horizontal scroll es 375px before
+PASS es 375px state inside: result shown, calendar button present
+PASS axe es 375px inside state: 0 violations 
+PASS no horizontal scroll es 375px inside
+PASS es 375px state after: result shown, calendar button absent
+PASS axe es 375px after state: 0 violations 
+PASS no horizontal scroll es 375px after
+PASS es 375px state expired: result shown, calendar button absent
+PASS axe es 375px expired state: 0 violations 
+PASS no horizontal scroll es 375px expired
+PASS es 375px invalid 31/2/2027: error shown, no result
+PASS es 375px invalid /6/2027: error shown, no result
+PASS es 375px invalid 15//2027: error shown, no result
+PASS es 375px invalid 15/6/abc: error shown, no result
+PASS es 375px invalid 0/1/2027: error shown, no result
+PASS es 375px invalid 15/6/1999: error shown, no result
+PASS es 375px Enter key submits
+PASS es ics download recordatorios-daca.ics: valid wrapper
+PASS es ics has 3 events (2 or 3)
+PASS es ics: all-day dates and alarms
+PASS es ics: confirmation shown
+PASS es 375px nothing stored: {"ls":0,"ss":0,"ck":0}
+PASS es 375px no external requests, no console errors 
+PASS es 1280px state before: result shown, calendar button present
+PASS axe es 1280px before state: 0 violations 
+PASS no horizontal scroll es 1280px before
+PASS es 1280px state inside: result shown, calendar button present
+PASS axe es 1280px inside state: 0 violations 
+PASS no horizontal scroll es 1280px inside
+PASS es 1280px state after: result shown, calendar button absent
+PASS axe es 1280px after state: 0 violations 
+PASS no horizontal scroll es 1280px after
+PASS es 1280px state expired: result shown, calendar button absent
+PASS axe es 1280px expired state: 0 violations 
+PASS no horizontal scroll es 1280px expired
+PASS es 1280px invalid 31/2/2027: error shown, no result
+PASS es 1280px invalid /6/2027: error shown, no result
+PASS es 1280px invalid 15//2027: error shown, no result
+PASS es 1280px invalid 15/6/abc: error shown, no result
+PASS es 1280px invalid 0/1/2027: error shown, no result
+PASS es 1280px invalid 15/6/1999: error shown, no result
+PASS es 1280px Enter key submits
+PASS es 1280px nothing stored: {"ls":0,"ss":0,"ck":0}
+PASS es 1280px no external requests, no console errors 
+PASS en 375px state before: result shown, calendar button present
+PASS axe en 375px before state: 0 violations 
+PASS no horizontal scroll en 375px before
+PASS en 375px state inside: result shown, calendar button present
+PASS axe en 375px inside state: 0 violations 
+PASS no horizontal scroll en 375px inside
+PASS en 375px state after: result shown, calendar button absent
+PASS axe en 375px after state: 0 violations 
+PASS no horizontal scroll en 375px after
+PASS en 375px state expired: result shown, calendar button absent
+PASS axe en 375px expired state: 0 violations 
+PASS no horizontal scroll en 375px expired
+PASS en 375px invalid 31/2/2027: error shown, no result
+PASS en 375px invalid /6/2027: error shown, no result
+PASS en 375px invalid 15//2027: error shown, no result
+PASS en 375px invalid 15/6/abc: error shown, no result
+PASS en 375px invalid 0/1/2027: error shown, no result
+PASS en 375px invalid 15/6/1999: error shown, no result
+PASS en 375px Enter key submits
+PASS en ics download daca-reminders.ics: valid wrapper
+PASS en ics has 3 events (2 or 3)
+PASS en ics: all-day dates and alarms
+PASS en ics: confirmation shown
+PASS en 375px nothing stored: {"ls":0,"ss":0,"ck":0}
+PASS en 375px no external requests, no console errors 
+PASS en 1280px state before: result shown, calendar button present
+PASS axe en 1280px before state: 0 violations 
+PASS no horizontal scroll en 1280px before
+PASS en 1280px state inside: result shown, calendar button present
+PASS axe en 1280px inside state: 0 violations 
+PASS no horizontal scroll en 1280px inside
+PASS en 1280px state after: result shown, calendar button absent
+PASS axe en 1280px after state: 0 violations 
+PASS no horizontal scroll en 1280px after
+PASS en 1280px state expired: result shown, calendar button absent
+PASS axe en 1280px expired state: 0 violations 
+PASS no horizontal scroll en 1280px expired
+PASS en 1280px invalid 31/2/2027: error shown, no result
+PASS en 1280px invalid /6/2027: error shown, no result
+PASS en 1280px invalid 15//2027: error shown, no result
+PASS en 1280px invalid 15/6/abc: error shown, no result
+PASS en 1280px invalid 0/1/2027: error shown, no result
+PASS en 1280px invalid 15/6/1999: error shown, no result
+PASS en 1280px Enter key submits
+PASS en 1280px nothing stored: {"ls":0,"ss":0,"ck":0}
+PASS en 1280px no external requests, no console errors 
+PASS status not "accepting": no dates, no calendar button
+PASS JavaScript off: USCIS timing quote (EN and ES) and the JavaScript notice are visible
+CALC PASS

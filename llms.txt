@@ -1,0 +1,29 @@
+# Renueva tu DACA
+
+> A free, ad-free, zero-tracking one-page calculator in Spanish and English. You enter the date your DACA expires; it shows the window USCIS recommends for filing a renewal (150 to 120 days before that date) and can create a calendar reminder file (.ics) on your own device. Everything runs in the browser: nothing is stored or sent. It gives general information, not legal advice. All status and timing wording is quoted word for word from USCIS, with its page date, read on 2026-11-27.
+
+## What it is
+- One input: the expiration date on your Form I-797 DACA approval notice. One output: the dates the window opens and closes, and a calendar file with 2 or 3 reminders.
+- The current DACA status as USCIS states it, copied unchanged (USCIS page "Last Reviewed/Updated" 01/24/2025).
+- The USCIS renewal timing recommendation, copied unchanged, in English and in USCIS's own Spanish.
+- Links to the USCIS DACA page, the Form I-821D page, the USCIS filing fees page, USCIS litigation information, the EOIR free legal service lists, and AZLawHelp.
+
+## Who it is for
+- People with DACA, and their families, who want to know when to file a renewal.
+
+## How to use it
+- Open the page, pick Spanish or English (English at ?lang=en), type the day, month and year, press the button. It needs JavaScript for the calculation; the USCIS quotes are in the static HTML.
+
+## Key links
+- Page: https://brianallengit.github.io/renueva-daca-az/
+- English view: https://brianallengit.github.io/renueva-daca-az/?lang=en
+
+## Sources
+- USCIS DACA page: https://www.uscis.gov/DACA (Spanish: https://www.uscis.gov/es/DACA)
+- USCIS Form I-821D: https://www.uscis.gov/i-821d
+- USCIS filing fees: https://www.uscis.gov/forms/filing-fees
+- EOIR free legal services: https://www.justice.gov/eoir/list-pro-bono-legal-service-providers
+- AZLawHelp: https://www.azlawhelp.org/
+
+## Limits
+- Not legal advice. The USCIS page may lag behind court rulings. Rules, fees and processing change: read the USCIS page and talk to a licensed attorney or DOJ-accredited representative about your own case.

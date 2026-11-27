@@ -1,0 +1,57 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//renueva-daca-az//DACA renewal window//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:daca-20270615-opens-20270116@renueva-daca-az
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:DACA: the window USCIS recommends for filing your renewal opens tod
+ ay
+DESCRIPTION:Reminder made in your browser. Not legal advice. Check the curr
+ ent rules at https://www.uscis.gov/DACA and talk to free legal help.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:DACA: the window USCIS recommends for filing your renewal opens
+  today
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:daca-20270615-week-20270208@renueva-daca-az
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20270208
+DTEND;VALUE=DATE:20270209
+SUMMARY:DACA: one week left in the window USCIS recommends for filing your 
+ renewal
+DESCRIPTION:Reminder made in your browser. Not legal advice. Check the curr
+ ent rules at https://www.uscis.gov/DACA and talk to free legal help.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:DACA: one week left in the window USCIS recommends for filing y
+ our renewal
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:daca-20270615-closes-20270215@renueva-daca-az
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270216
+SUMMARY:DACA: today is the last day of the window USCIS recommends for fili
+ ng your renewal
+DESCRIPTION:Reminder made in your browser. Not legal advice. Check the curr
+ ent rules at https://www.uscis.gov/DACA and talk to free legal help.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:DACA: today is the last day of the window USCIS recommends for 
+ filing your renewal
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

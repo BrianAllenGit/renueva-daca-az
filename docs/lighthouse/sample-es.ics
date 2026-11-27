@@ -1,0 +1,60 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//renueva-daca-az//DACA renewal window//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:daca-20270615-opens-20270116@renueva-daca-az
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:DACA: hoy abre el plazo que USCIS recomienda para presentar tu reno
+ vación
+DESCRIPTION:Recordatorio hecho en tu navegador. No es asesoría legal. Revi
+ sa las reglas actuales en https://www.uscis.gov/es/DACA y habla con ayuda 
+ legal gratuita.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:DACA: hoy abre el plazo que USCIS recomienda para presentar tu 
+ renovación
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:daca-20270615-week-20270208@renueva-daca-az
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20270208
+DTEND;VALUE=DATE:20270209
+SUMMARY:DACA: falta una semana para que cierre el plazo que USCIS recomiend
+ a
+DESCRIPTION:Recordatorio hecho en tu navegador. No es asesoría legal. Revi
+ sa las reglas actuales en https://www.uscis.gov/es/DACA y habla con ayuda 
+ legal gratuita.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:DACA: falta una semana para que cierre el plazo que USCIS recom
+ ienda
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:daca-20270615-closes-20270215@renueva-daca-az
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270216
+SUMMARY:DACA: hoy es el último día del plazo que USCIS recomienda para pr
+ esentar tu renovación
+DESCRIPTION:Recordatorio hecho en tu navegador. No es asesoría legal. Revi
+ sa las reglas actuales en https://www.uscis.gov/es/DACA y habla con ayuda 
+ legal gratuita.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:DACA: hoy es el último día del plazo que USCIS recomienda par
+ a presentar tu renovación
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR
